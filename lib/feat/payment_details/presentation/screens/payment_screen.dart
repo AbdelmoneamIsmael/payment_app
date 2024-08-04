@@ -1,6 +1,4 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_credit_card/flutter_credit_card.dart';
-
 import 'package:payment_app/core/widgets/custom_app_bar.dart';
 import 'package:payment_app/core/widgets/primary_button.dart';
 import 'package:payment_app/feat/payment_details/presentation/widget/card_info.dart';
